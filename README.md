@@ -17,8 +17,8 @@ Your challenge is to build out this QR code component and get it looking as clos
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 ### Links
 
-- Solution URL: [Product Preview Card Component](https://github.com/brian-jensen/qr-code-component)
-- Live Site URL: [Product Preview Card Component](https://brian-jensen.github.io/qr-code-component/)
+- Solution URL: [QR Code Component](https://github.com/brian-jensen/qr-code-component)
+- Live Site URL: [QR Code Component](https://brian-jensen.github.io/qr-code-component/)
 
 ### Built with
 
